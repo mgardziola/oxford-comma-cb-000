@@ -1,5 +1,9 @@
 def oxford_comma(array)
-  array.length 
+  
+  case array.length 
   when 0 
+    ''
+  when 1 
+    array
 
 end
