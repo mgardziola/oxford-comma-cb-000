@@ -7,7 +7,8 @@ def oxford_comma(array)
     array.first 
   when 2
     "#{array[0]} and #{array[1]}"
-  when 
+  else 
+    "#{array[]}"
   end 
 
 end
