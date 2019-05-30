@@ -4,6 +4,8 @@ def oxford_comma(array)
   when 0 
     ''
   when 1 
-    arraY.options_from_collection_for_select
+    array.first 
+  when 2
+    array.join
 
 end
