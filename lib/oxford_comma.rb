@@ -4,6 +4,6 @@ def oxford_comma(array)
   when 0 
     ''
   when 1 
-    array
+    putd
 
 end
