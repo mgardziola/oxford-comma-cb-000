@@ -4,6 +4,6 @@ def oxford_comma(array)
   when 0 
     ''
   when 1 
-    putd
+    arraY.options_from_collection_for_select
 
 end
